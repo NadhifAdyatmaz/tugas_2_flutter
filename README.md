@@ -8,7 +8,7 @@ A new Flutter project.
 
 ![Phone Page Home](images/HP1b.jpeg)
 
-![Phone Page Favorites](images/HP1b.jpeg)
+![Phone Page Favorites](images/HP1a.jpeg)
 
 ## Getting Started
 
